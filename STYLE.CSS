@@ -1,0 +1,84 @@
+button,
+            input {
+                font-family: "Roboto", sans-serif;
+            }
+            #headerTable {
+                width: 100%;
+                background-color: aquamarine;
+            }
+            .logo {
+                width: 80px;
+                background-color: blue;
+            }
+            main {
+                min-height: 100vh;
+            }
+            nav {
+                margin-right: 16px;
+            }
+            a {
+                margin-right: 16px;
+                text-decoration: none;
+                color: black;
+            }
+            video {
+                width: 100%;
+                height: 20%;
+            }
+            #mainTable {
+                width: 100%;
+                background-color: cadetblue;
+            }
+            #userImage {
+                width: 400px;
+                height: 390px;
+                margin: 16px;
+                padding-right: 10%;
+            }
+            .bioBox {
+                width: 70%;
+                text-align: left;
+                font-family: 'Courier New', Courier, monospace;
+                background-color: ivory;
+                
+            }
+            .btn {
+                padding-top: 10px;
+                padding-bottom: 10px;
+                padding-left: 20px;
+                padding-right: 20px;
+                border-radius: 10px;
+                font-size: medium;
+                background-color: darksalmon;
+            }
+            .footerText {
+                text-align: center;
+                color: white;
+            }
+            footer {
+                background-color: grey;
+                height: 200px;
+            }
+
+            video.controls poster{
+                    height: fit-content;
+            }
+
+            #headerTable {
+                width: 100%;
+                background-color: aquamarine;
+         }
+         .logo {
+                width: 80px;
+                background-color: blue;}
+        main {
+                min-height: 100vh;
+        }
+        nav {
+                margin-right: 16px;
+            }
+         a {
+                 margin-right: 16px;
+                 text-decoration: none;
+                 color: black;
+         }
